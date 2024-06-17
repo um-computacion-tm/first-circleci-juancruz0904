@@ -1,9 +1,6 @@
 def suma(a, b):
     return a + b
 
-print("cuenta realizada")
 
-
-
-
-
+if __name__ == '__main__':
+    print(suma(1, 2))
